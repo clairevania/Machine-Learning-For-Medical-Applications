@@ -6,7 +6,7 @@ In this project, we will be programming our own decision tree CART algorithm wit
 To evaluate the algorithm we will be working with the [Early stage diabetes risk prediction dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.) containing predictor variables about patients with diabetes and controls. 
 
 
-### Project 2: Prognosis and Survival Function
+### [Project 2: Prognosis and Survival Function](https://github.com/clairevania/Machine-Learning-For-Medical-Applications/blob/main/Prognosis%20and%20survival.ipynb)
 In this project, we will analyze observations from different patients who suffered a heart attack and we will create different survival functions employing univariate (Kaplan-Meier estimate) and multivariate (Cox proportional hazards and survival forests) analysis.
 
 The data that we are going to use in this lab is described in the paper ["Survival analysis of heart failure patients: A case study"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181001). According to the authors: 
