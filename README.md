@@ -23,7 +23,7 @@ We will use MIT-BIH Arrythmia dataset (https://www.physionet.org/content/mitdb/1
 In this project, we will learn to classify pneumonia using Chest X-Ray dataset which can be downloaded from [here](https://www.dropbox.com/s/cwvaqip12wpex6o/Lab7_XRay_chest_pnemonia.zip?dl=0). This data is already split into train, test and validation directories, so you do not have to split it yourself.
 
 
-### Project 5: Representation Learning with Autoencoder
+### [Project 5: Representation Learning with Autoencoder](https://github.com/clairevania/Machine-Learning-For-Medical-Applications/blob/main/Autoencoder_EEG.ipynb)
 In this project, we will solve a 2-class classification problem using Epilespy EEG data.
 
 The dataset is available from https://zenodo.org/record/3684992. This dataset was generated with a motive to build predictive epilepsy diagnosis models. It was generated on a similar acquisition and settings i.e., sampling frequency, bandpass filtering and number of signals and time duration as its much more famous counterpart - the University of Bonn dataset. It has overcome the limitations faced by the University of Bonn dataset, such as different EEG recording sites (inter-cranial and scalp) for healthy and epileptic patients. All the data were taken exclusively using surface EEG electrodes.
