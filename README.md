@@ -19,5 +19,5 @@ Today, detecting abnormal heartbeat patterns is important in smartwatches.In thi
 We will use MIT-BIH Arrythmia dataset (https://www.physionet.org/content/mitdb/1.0.0/). It consists of ECG recordings of several patients (patient IDs being 100, 101, etc.) with sampling frequency of 360 (samples/sec). Experts annotated/classified specific points in the signals as normal, abnormal, or non beat.
 
 
-### Project 4: Data Augmentation and Visualization for XRay
+### [Project 4: Data Augmentation and Visualization for XRay](https://github.com/clairevania/Machine-Learning-For-Medical-Applications/blob/main/DataAugmentation_and_Visualization_for_XRay.ipynb)
 In this project, we will learn to classify pneumonia using Chest X-Ray dataset which can be downloaded from [here](https://www.dropbox.com/s/cwvaqip12wpex6o/Lab7_XRay_chest_pnemonia.zip?dl=0). This data is already split into train, test and validation directories, so you do not have to split it yourself.
