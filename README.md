@@ -1,5 +1,5 @@
 # Machine-Learning-For-Medical-Applications
-## This repository contains projects wherein machine learning algorithms was used for various medical applications.
+## This repository contains projects wherein machine learning algorithms were used for various medical applications.
 ### [Project 1: Decision Trees - The Cart Algorithm](https://github.com/clairevania/Machine-Learning-For-Medical-Applications/blob/main/DecisionTrees.ipynb)
 In this project, we will be programming our own decision tree CART algorithm with Gini criterion. 
 
